@@ -1,4 +1,4 @@
-# git-learning
+# NBA Players List
 
 1. LeBron James
 2. Stephen Curry
